@@ -11,6 +11,7 @@ This script is a quick and simple solution to automatically set the qBittorrent 
 - **ProtonVPN**: Ensure ProtonVPN is installed and running.
 - **qBittorrent**: The script modifies qBittorrent's settings, so it must be installed.
 - **Windows**: The script uses Windows notifications.
+- **Python**: The main logic of the script runs in Python.
 
 ## Usage
 1. Run the script while ProtonVPN is active.
